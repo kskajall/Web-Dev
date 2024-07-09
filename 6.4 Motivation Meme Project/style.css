@@ -1,0 +1,12 @@
+body{
+    background-color: #000000;
+    text-align: center;
+}
+#poster{
+    border: 10px solid white;
+    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
